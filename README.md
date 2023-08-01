@@ -1,4 +1,5 @@
 # Introduction
+TEXT TEXT TEXT
 
 # Aim & Objectives
 **Aim**: To perform the role of a simulated Business Intelligence Consultant, providing a better understanding of the overall online sales performance to the Senior Leadership of Giant Bicycles Corporation, as well as offering new insights and recommendations to the company based on the findings.

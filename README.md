@@ -6,7 +6,7 @@ TEXT TEXT TEXT
 
 **Objectives**:
 * To extract the Giant Bicycles Corporation's data source database to the staging database in SQL Server Management Studio (SSMS). 
-* To design and deploy the online analytical processing (OLAP) cube and implementation of business analytics by using Visual Studio with SQL Server Data Tools (SSDT) package and SQL Server Analysis Services (SSAS).
+* To design and deploy the online analytical processing (OLAP) cube and implementation of business analytics by using Microsoft Visual Studio with SQL Server Data Tools (SSDT) package and SQL Server Analysis Services (SSAS).
 * To create multidimensional expressions (MDX) query to extend cube capabilities.
 * To design and creation of visualization dashboard using Microsoft Power BI.
 * To identify possible problems and provide recommendations on the insights generated for the dashboard.

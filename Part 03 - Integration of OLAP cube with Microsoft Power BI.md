@@ -1,4 +1,4 @@
-# Integration of Online Analytical Processing (OLAP) cube with Microsoft Power BI
+# Integration of Online Analytical Processing (OLAP) Cube with Microsoft Power BI
 
 **Step 1:** Click "Get Data" > Select "SQL Server Analysis Services database" > Click "Connect"   
 ![Slide1](https://github.com/LiewJunYen-DataAnalyst/Business-Intelligence-BI-Giant-Bicycles-Organization-Academic/assets/130137513/036f65bc-68dd-402c-a42e-5e8b7a447e1b)   

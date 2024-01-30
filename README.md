@@ -9,6 +9,12 @@ The Business Intelligence (BI) project is assigned by Asia Pacific University Ma
 * To design an online analytical processing (OLAP) cube with key sales performance dimensions, deploy it using Microsoft Visual Studio with SQL Server Analysis Services (SSAS), and establish a connection to Microsoft Power BI.
 * To design and launch an interactive Power BI dashboard with at least 3 different visual components, culminating in a strategic recommendations report by the twelfth week.
 
+**Analytic Tools**:
+* Microsoft Power BI
+* Microsoft Visual Studio
+* SQL Server Analysis Services (SSAS)
+* SQL Server Management Studio (SSMS)
+
 # Data Source
 * **Data Source**: [Trek Bikes DataWarehouse.bak](https://drive.google.com/file/d/1qWbcWrd7f4d8ctlcmkk-nxuIsQso60PI/view?usp=sharing)
 * **Description**: Giant Bicycles Organization's data warehouse consists of dimension tables and fact tables. It contains data from the period 2010 to 2014. 

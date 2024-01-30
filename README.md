@@ -9,7 +9,7 @@ The Business Intelligence (BI) project is assigned by Asia Pacific University Ma
 * To design an online analytical processing (OLAP) cube with key sales performance dimensions, deploy it using Microsoft Visual Studio with SQL Server Analysis Services (SSAS), and establish a connection to Microsoft Power BI.
 * To design and launch an interactive Power BI dashboard with at least 3 different visual components, culminating in a strategic recommendations report by the twelfth week.
 
-**Analytic Tools**:
+# Analytic Tools:
 * Microsoft Power BI
 * Microsoft Visual Studio
 * SQL Server Analysis Services (SSAS)
